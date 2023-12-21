@@ -1,0 +1,8 @@
+# dirs
+build/
+__pycache__/
+.vscode/
+
+# filetypes
+*.o
+*_pb2*
